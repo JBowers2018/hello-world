@@ -1,2 +1,2 @@
 # hello-world
-First repository.
+Hello, my name is Julia Bowers and this is my first commit to my first repository.
